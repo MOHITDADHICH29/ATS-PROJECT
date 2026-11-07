@@ -2,6 +2,10 @@
 
 A Next.js App Router prototype for explainable resume screening across an LCA Consultant role and a UI/UX Design Internship.
 
+## Live demo
+
+Try the deployed application: [ats-project-mu.vercel.app](https://ats-project-mu.vercel.app/)
+
 ## Run locally
 
 ```bash
