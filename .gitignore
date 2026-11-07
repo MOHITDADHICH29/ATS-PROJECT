@@ -1,0 +1,10 @@
+.env.local
+.env.*.local
+.next/
+node_modules/
+__pycache__/
+*.py[cod]
+*.tsbuildinfo
+/resumes/
+/public/resumes/
+/Software Development Assignment Resumes/
